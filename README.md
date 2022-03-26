@@ -1,2 +1,0 @@
-# EnlightenmentQuest
-Enlightenment Quest
