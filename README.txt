@@ -42,10 +42,6 @@ Game Design Document
 
 
 
-Matthew L. Cunningham
-WR-510/410-008: TOP: GAME PRODUCTION | Michael Sheyahshe
-Portland State University
-2015
 Table of Contents
 
 
