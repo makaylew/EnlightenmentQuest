@@ -10,10 +10,12 @@ Gameplay: The player navigates through a 3d environment, ignoring distractions f
 
 Audio: Immersive binaural ambient soundscapes will play continuously and will be responsive to gameplay, changing in nature. 
 
-Current state: The game is still in conceptual stages and the current repository (as of March 2022) are game fragments. 
+Current state: The game is still in conceptual stages and the current repository (as of March 2022) are game fragments for a Unity 3d environment. 
 
-The hope is that this game will eventually be possible to recreate in VR as a meditative experience.
+Developmental Goals: Will be recreated as a simple, retro-style raycasting 2D RPG using Pygame.
 
-For more information, please review the Game Design Document, originally written in 2015: https://github.com/makaylew/EnlightenmentQuest/blob/bccf3116b7576202aa802e3bd8aa5452f171031a/Design%20Document
+Future Plans: The hope is that this game will eventually be possible to recreate in VR as a meditative experience.
+
+For more information, please review the full Game Design Document, originally written in 2015: https://github.com/makaylew/EnlightenmentQuest/blob/bccf3116b7576202aa802e3bd8aa5452f171031a/Design%20Document
 
 For status updates, please visit the Kanban board: https://github.com/makaylew/EnlightenmentQuest/projects/1
