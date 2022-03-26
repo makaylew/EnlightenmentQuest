@@ -14,7 +14,7 @@ Current state: The game is still in conceptual stages and the current repository
 
 Developmental Goals: Will be recreated as a simple, retro-style raycasting 2D RPG using Pygame.
 
-Future Plans: The hope is that this game will eventually be possible to recreate in VR as a meditative experience.
+Future Plans: The hope is that this game will eventually be possible to recreate in VR to facilitate a fully immersive meditative experience.
 
 For more information, please review the full Game Design Document, originally written in 2015: https://github.com/makaylew/EnlightenmentQuest/blob/bccf3116b7576202aa802e3bd8aa5452f171031a/Design%20Document
 
